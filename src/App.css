@@ -83,3 +83,43 @@ textarea{
     font-family: monospace, sans-serif;
     font-size: 20px;
 }
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .tabs {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-family: monospace;
+  }
+  
+  .preview {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .docs {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+  }
+  
+  .docs h3 {
+    font-size: 1.5em;
+  }
+  
